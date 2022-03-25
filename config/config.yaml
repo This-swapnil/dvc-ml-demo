@@ -11,3 +11,6 @@ artifacts:
 
   model_dir: model_dir
   model_file: ElasticNet.model
+
+  report_dir: report_dir
+  scores: scores.json
